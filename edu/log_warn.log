@@ -1,0 +1,1 @@
+2021-05-28 16:15:36.989 [http-nio-8001-exec-6] WARN  com.alibaba.druid.pool.DruidAbstractDataSource - discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/eduOnline?autoReconnect=true&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8, version : 1.2.5, lastPacketReceivedIdleMillis : 1356227
